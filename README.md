@@ -8,7 +8,7 @@
 ![MacOS-image](https://img.shields.io/badge/-MacOS-black?logo=apple)
 ![Linux-image](https://img.shields.io/badge/-Linux-333?logo=ubuntu)
  
-🪈 [Magic](#Magic) 
+🪜 [Magic](#Magic) 
 📮 [Mailbox](#Mailbox) 
 🔘 [ActivateSMS](#Mailbox) 
 💰 [Payment](#Payment) 
@@ -18,7 +18,7 @@
 
 <h1> </h1>
 
-## 🪈Magic
+## 🪜Magic
 
 - [Falemon](https://prknm.com/s/bzjl11)
   - Blazing fast data relay service optimized for users.
