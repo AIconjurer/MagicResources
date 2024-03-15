@@ -57,7 +57,13 @@ Free your internet, Access Gmail Google Youtube Facebook Twitter and Instagram
 ## 💰Payment
 
 - [PayPal](https://www.paypal.com/) ⭐⭐⭐⭐⭐
-	  - 
+ 	- PayPal is a leading online payment platform worldwide, providing secure and convenient payment and financial services to individuals and businesses with over 350 million active accounts worldwide.
+	- Features
+		- Safe and reliable: PayPal adopts advanced security technology and risk control measures to ensure transaction security.
+		- Convenient and efficient: PayPal supports multiple payment methods and currencies, allowing for quick payment and collection.
+		- Global use: PayPal can be used in over 200 countries and regions worldwide, supporting over 100 currencies.
+		- Diverse functions: PayPal provides a variety of payment solutions to meet the needs of different users.
+   
 - [NOBE](https://nobepay.com/) ⭐⭐⭐⭐⭐
 	- Enterprise Overseas Payment Management
 	- Applicable scenarios
@@ -66,9 +72,21 @@ Free your internet, Access Gmail Google Youtube Facebook Twitter and Instagram
       	- Facebook, Google...
 
 - [OneKey](https://card.onekey.so/) ⭐⭐⭐⭐
-	- 
+	- OneKey is an open-source encrypted wallet developed by OneKey Labs, aimed at providing users with a secure and convenient encrypted asset management solution. OneKey supports various mainstream public chains, including Ethereum, Polygon, Solana, Near, and Aptos, and can be used for storing, trading, and managing cryptocurrencies and NFTs.
+	- Features
+		- Hardware Wallet: OneKey offers a variety of hardware wallets, such as OneKey Classic, OneKey Touch, and OneKey Mini, which can be used to securely store encrypted assets offline.
+		- Software Wallet: OneKey provides mobile and desktop software wallets that can be used to manage encrypted assets.
+		- OneKey Card: OneKey Card is an encrypted debit card that can be used for payments using cryptocurrency worldwide.
+
 - [Alipay](https://www.alipay.com/) ⭐⭐⭐⭐
-	- 
+	- Alipay is China's leading third-party payment platform, operated by Ant Group, providing safe and convenient payment and financial services to more than 1.2 billion active users worldwide.
+	- Features
+		- Mobile payment: Alipay is the largest mobile payment platform in the world. Users can complete payment by scanning their mobile phone code.
+		- Quick payment: Alipay provides quick payment function, and users can complete payment without entering a password.
+		- Credit payment: Alipay provides credit payment function, so users can pay after spending.
+		- Huabei: Alipay provides Huabei service, and users can enjoy the shopping experience of "consumption before payment".
+		- Yu'e Bao: Alipay provides the service of Yu'e Bao. Users can deposit their spare money in Yu'e Bao to earn income.
+
 - [WeChatPay](https://pay.weixin.qq.com/) ⭐⭐⭐⭐
 	- 
 
