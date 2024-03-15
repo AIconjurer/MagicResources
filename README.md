@@ -56,19 +56,35 @@ Free your internet, Access Gmail Google Youtube Facebook Twitter and Instagram
 
 ## 💰Payment
 
-- [PayPal](https://www.paypal.com/)
-- 
-- [NOBE](https://nobepay.com/)
-- 
-- [OneKey](https://card.onekey.so/)
-- 
-- [Alipay](https://www.alipay.com/)
-- 
-- [WeChatPay](https://pay.weixin.qq.com/)
-- 
+- [PayPal](https://www.paypal.com/) ⭐⭐⭐⭐⭐
+	  - 
+- [NOBE](https://nobepay.com/) ⭐⭐⭐⭐⭐
+	- Enterprise Overseas Payment Management
+	- Applicable scenarios
+		- E-commerce platforms (Amazon, Walmart, Ebay, Dhgate, Newegg, Etsy, Aliexpress...)
+  	 	- AI software platforms (ChatGPT, Midjournal...)
+      	- Facebook, Google...
+
+- [OneKey](https://card.onekey.so/) ⭐⭐⭐⭐
+	- 
+- [Alipay](https://www.alipay.com/) ⭐⭐⭐⭐
+	- 
+- [WeChatPay](https://pay.weixin.qq.com/) ⭐⭐⭐⭐
+	- 
 
 ## 🔑Account
 
+- [Galaxy Video Agency](https://nf.video/xECia) ⭐⭐⭐⭐⭐
+ 	- provide global digital media content sharing communities and productivity software account services.
+    	- GPT Plus
+		- Midjourney
+		- Claude3
+		- Notion
+		- Disney
+		- Youtube
+		- iCloud
+- [knmva.store](https://knmva.store/) ⭐⭐⭐
+	- ChatGPT account service.
 
 ## 📱Mobilephone
 
