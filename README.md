@@ -14,13 +14,14 @@
 💰 [Payment](#Payment) 
 🔑 [Account](#Account) 
 📱 [Mobilephone](#Mobilephone) 
+📦 [ProjectPlatform](#ProjectPlatform)
 </div>
 
 <h1> </h1>
 
 ## 🪜Magic
 
-- [Falemon](https://prknm.com/s/bzjl11)
+- [Falemon](https://prknm.com/s/bzjl11)⭐⭐⭐⭐⭐
   - Blazing fast data relay service optimized for users.
   - Features
     - Best-in-Class Encryption
@@ -29,7 +30,7 @@
     - Rocketing Your Speed
     - SLA Guaranteed
     - All-Day Support
-- [VTRSpeed](https://www.vtrchina.cc/)
+- [VTRSpeed](https://www.vtrchina.cc/)⭐⭐⭐⭐
  	- Ultra Stable and Secure, Protect your Privacy in public Wi-Fi Network
 Free your internet, Access Gmail Google Youtube Facebook Twitter and Instagram
 	- Features
@@ -41,11 +42,17 @@ Free your internet, Access Gmail Google Youtube Facebook Twitter and Instagram
       
 ## 📮Mailbox
 
+- [GMail](https://mail.google.com/) ⭐⭐⭐⭐⭐
+- [Outlook](https://outlook.com/) ⭐⭐⭐⭐
+- [iCloud](https://www.icloud.com/) ⭐⭐⭐⭐
 
 
 ## 🔘ActivateSMS
 
-
+- [SMS-Man](https://sms-man.com/)⭐⭐⭐⭐⭐
+  - 
+- [SMS-Activate](https://sms-activate.org/)⭐⭐⭐⭐
+  - 
 
 ## 💰Payment
 
@@ -57,4 +64,7 @@ Free your internet, Access Gmail Google Youtube Facebook Twitter and Instagram
 ## 📱Mobilephone
 
 
+## 📦ProjectPlatform
+
+- [GitHub](https://github.com/) ⭐⭐⭐⭐⭐
 
