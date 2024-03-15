@@ -46,7 +46,6 @@ Free your internet, Access Gmail Google Youtube Facebook Twitter and Instagram
 - [Outlook](https://outlook.com/) ⭐⭐⭐⭐
 - [iCloud](https://www.icloud.com/) ⭐⭐⭐⭐
 
-
 ## 🔘ActivateSMS
 
 - [SMS-Man](https://sms-man.com/) ⭐⭐⭐⭐⭐
@@ -88,8 +87,14 @@ Free your internet, Access Gmail Google Youtube Facebook Twitter and Instagram
 		- Yu'e Bao: Alipay provides the service of Yu'e Bao. Users can deposit their spare money in Yu'e Bao to earn income.
 
 - [WeChatPay](https://pay.weixin.qq.com/) ⭐⭐⭐⭐
-	- 
-
+	- WeChat Pay is one of the leading mobile payment platforms in China, developed by Tencent, relying on its large user base to provide users with secure and convenient payment and financial services.
+ 	- Features
+		- Scan code payment: WeChat Pay supports scan code payment, and users can complete payment by scanning the merchant's QR code.
+		- Card payment: WeChat Pay supports card payment, and users can complete payment through card swiping.
+		- Official account payment: WeChat payment supports official account payment, and users can complete payment in official account.
+		- Mini Program Payment: WeChat Pay supports mini program payments, and users can complete payments within the mini program.
+		- WeChat red envelope: WeChat Pay provides WeChat red envelope function, and users can send red envelopes to friends.
+  
 ## 🔑Account
 
 - [Galaxy Video Agency](https://nf.video/xECia) ⭐⭐⭐⭐⭐
