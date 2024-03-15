@@ -4,6 +4,10 @@
 	<span>English | <a href="./README.zh.md">中文</a></span>
  	<br/><br/>
 
+<div align="left">
+The era of artificial intelligence is approaching. In the process of learning and using various artificial intelligence applications, various resources are needed. However, due to various reasons, various learning and usage restrictions have been imposed, which has had a certain impact on the application and popularization of artificial intelligence. The purpose of this project is to collect and integrate various artificial intelligence application resources, including mobile phones, email, networks, payments, accounts, projects, etc, For the convenience of everyone's use.
+</div>
+
 ![Windows-image](https://img.shields.io/badge/-Windows-blue?logo=windows)
 ![MacOS-image](https://img.shields.io/badge/-MacOS-black?logo=apple)
 ![Linux-image](https://img.shields.io/badge/-Linux-333?logo=ubuntu)
