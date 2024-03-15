@@ -21,7 +21,7 @@
 
 ## 🪜Magic
 
-- [Falemon](https://prknm.com/s/bzjl11)⭐⭐⭐⭐⭐
+- [Falemon](https://prknm.com/s/bzjl11) ⭐⭐⭐⭐⭐
   - Blazing fast data relay service optimized for users.
   - Features
     - Best-in-Class Encryption
@@ -30,7 +30,7 @@
     - Rocketing Your Speed
     - SLA Guaranteed
     - All-Day Support
-- [VTRSpeed](https://www.vtrchina.cc/)⭐⭐⭐⭐
+- [VTRSpeed](https://www.vtrchina.cc/) ⭐⭐⭐⭐
  	- Ultra Stable and Secure, Protect your Privacy in public Wi-Fi Network
 Free your internet, Access Gmail Google Youtube Facebook Twitter and Instagram
 	- Features
@@ -49,9 +49,9 @@ Free your internet, Access Gmail Google Youtube Facebook Twitter and Instagram
 
 ## 🔘ActivateSMS
 
-- [SMS-Man](https://sms-man.com/)⭐⭐⭐⭐⭐
+- [SMS-Man](https://sms-man.com/) ⭐⭐⭐⭐⭐
   - 
-- [SMS-Activate](https://sms-activate.org/)⭐⭐⭐⭐
+- [SMS-Activate](https://sms-activate.org/) ⭐⭐⭐⭐
   - 
 
 ## 💰Payment
