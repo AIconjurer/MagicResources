@@ -56,7 +56,16 @@ Free your internet, Access Gmail Google Youtube Facebook Twitter and Instagram
 
 ## 💰Payment
 
-
+- [PayPal](https://www.paypal.com/)
+- 
+- [NOBE](https://nobepay.com/)
+- 
+- [OneKey](https://card.onekey.so/)
+- 
+- [Alipay](https://www.alipay.com/)
+- 
+- [WeChatPay](https://pay.weixin.qq.com/)
+- 
 
 ## 🔑Account
 
