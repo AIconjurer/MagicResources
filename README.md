@@ -43,8 +43,35 @@ Free your internet, Access Gmail Google Youtube Facebook Twitter and Instagram
 ## 📮Mailbox
 
 - [GMail](https://mail.google.com/) ⭐⭐⭐⭐⭐
+ 	- With powerful features and a simple interface, it is one of the most popular email services in the world.
+    - Features
+      	- Free: Gmail is a free service that users can use without paying any fees.
+		- Large capacity: Gmail provides a large storage space that can meet the storage needs of users.
+		- Powerful features: Gmail provides powerful features, including search, filtering, tagging, categorization, etc., to help users better manage their emails.
+		- Safe and reliable: Gmail adopts advanced security technology to protect user privacy and security.
+		- Simplicity and ease of use: The Gmail interface is simple and easy to use, making it easy for users to get started.
+    
 - [Outlook](https://outlook.com/) ⭐⭐⭐⭐
+	- Outlook is a personal information management software developed by Microsoft, with main features including email, calendar, contacts, tasks, and notes.
+	- Features
+   		- Powerful: Outlook provides powerful features to meet various user needs.
+		- Simple interface: The Outlook interface is simple and easy to use, making it easy for users to get started.
+		- Safe and reliable: Outlook adopts advanced security technology to protect user privacy and security.
+		- Supports multiple platforms: Outlook can be used on Windows, Mac, iOS, and Android platforms, making it convenient for users to use on different devices.
+		- Deep integration with Microsoft Office suite: Outlook can be deeply integrated with Microsoft Office suite, making it convenient for users to collaborate and work together.
+  
 - [iCloud](https://www.icloud.com/) ⭐⭐⭐⭐
+	- ICloud email can be used to send and receive emails, manage contacts, create calendars, and more. ICloud email can be used on all Apple devices, including iPhone, iPad, Mac, and more.
+	- Features
+ 		- Free: iCloud email is a free service that users can use without paying any fees.
+		- Large capacity: iCloud email provides 5GB of free storage space to meet the storage needs of users.
+		- Powerful features: iCloud email provides powerful features, including:
+			- Search: can quickly search for emails.
+			- Filtering: can automatically filter spam and advertising emails.
+			- Tags: can add tags to emails for easy classification management.
+			- Classification: Email can be classified into different folders.
+			- Safe and reliable: iCloud email adopts advanced security technology to protect user privacy and security.
+		- Simplicity and ease of use: The iCloud email interface is simple and easy to use, making it easy for users to get started.
 
 ## 🔘ActivateSMS
 
@@ -123,8 +150,15 @@ Free your internet, Access Gmail Google Youtube Facebook Twitter and Instagram
 ## 📱Mobilephone
 
 - [Google Voice](https://voice.google.com/) ⭐⭐⭐⭐⭐
-	- Smart voice calling on all your devices.
-
+	- Google Voice is a free service provided by Google that provides users with a US phone number for answering and making calls, sending and receiving text messages, and voice mail. Google Voice can be used in the United States and Canada, and supports a variety of devices, including smartphones, computers, and tablets.
+ 	- Features
+		- Free Number: Google Voice provides users with a free US phone number that can be used to answer and make calls, send and receive text messages, and voice mail.
+		- Multi device support: Google Voice can be used on multiple devices, including smartphones, computers, and tablets.
+		- Powerful features: Google Voice provides powerful features, including:
+			- Voice mail to text: Convert voice mail to text for easy reading by users.
+			- Call filtering: Automatically filter junk and harassing calls.
+			- Number hiding: Hiding the user's real number to protect privacy.
+		- Easy to use: The Google Voice interface is simple and user-friendly, making it easy for users to get started.
 
 ## 📦ProjectPlatform
 
