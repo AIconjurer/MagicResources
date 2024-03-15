@@ -49,9 +49,20 @@ Free your internet, Access Gmail Google Youtube Facebook Twitter and Instagram
 ## 🔘ActivateSMS
 
 - [SMS-Man](https://sms-man.com/) ⭐⭐⭐⭐⭐
-  - 
+	- A virtual number service platform that provides global users with virtual number receiving SMS verification code services. Support virtual numbers for multiple countries and regions, which can be used to register various websites and applications.
+	- Features
+		- Virtual Number: SMS-MAN provides virtual numbers for various countries and regions, which can be used to register various websites and applications.
+		- Receive SMS verification code: SMS-MAN can be used to receive SMS verification codes, making it convenient for users to register and log in to various websites and applications.
+		- API Interface: SMS-MAN provides API interfaces that developers can integrate into their own applications.
+		- 24/7 customer service support: SMS-MAN provides 24/7 customer service support to help users solve problems.
+
 - [SMS-Activate](https://sms-activate.org/) ⭐⭐⭐⭐
-  - 
+	- SMS Activate was founded in 2015 and is a virtual number service company located in Russia.
+ 	- Features
+    	- Virtual Number: SMS Activate provides virtual numbers for various countries and regions, which can be used to register various websites and applications.
+		- Receive SMS verification code: SMS Activate can be used to receive SMS verification codes, making it convenient for users to register and log in to various websites and applications.
+		- API Interface: SMS Activate provides API interfaces that developers can integrate into their own applications.
+		- 24/7 customer service support: SMS Activate provides 24/7 customer service support to help users solve problems.
 
 ## 💰Payment
 
