@@ -176,7 +176,7 @@ Free your internet, Access Gmail Google Youtube Facebook Twitter and Instagram
 		- Auto Scale: Railway can automatically scale your application to meet traffic needs.
 		- Safe and Reliable: Railway provides a secure and reliable platform to protect your applications.
 		- Multiple language support: Railway supports multiple languages, including Python, Node.js, Java, Go, and more.
-- [Vercel(https://vercel.com/) ⭐⭐⭐⭐⭐
+- [Vercel](https://vercel.com/) ⭐⭐⭐⭐⭐
 	- Vercel is a modern front-end hosting platform designed to simplify the deployment and management of websites and web applications. It provides a serverless approach to build, deploy, and scale all types of front-end projects.
 	- Features
 		- No server deployment
