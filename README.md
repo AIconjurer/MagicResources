@@ -87,7 +87,7 @@ Free your internet, Access Gmail Google Youtube Facebook Twitter and Instagram
 		- API Interface: SMS-MAN provides API interfaces that developers can integrate into their own applications.
 		- 24/7 customer service support: SMS-MAN provides 24/7 customer service support to help users solve problems.
 
-- [SMS-Activate](https://sms-activate.org/) ⭐⭐⭐⭐
+- [SMS-Activate](https://sms-activate.org/) ⭐⭐⭐⭐⭐
 	- SMS Activate was founded in 2015 and is a virtual number service company located in Russia.
  	- Features
     	- Virtual Number: SMS Activate provides virtual numbers for various countries and regions, which can be used to register various websites and applications.
