@@ -14,7 +14,7 @@ The era of artificial intelligence is approaching. In the process of learning an
  
 🪜 [Magic](#Magic) 
 📮 [Mailbox](#Mailbox) 
-🔘 [ActivateSMS](#Mailbox) 
+🔘 [ActivateSMS](#ActivateSMS) 
 💰 [Payment](#Payment) 
 🔑 [Account](#Account) 
 📱 [Mobilephone](#Mobilephone) 
